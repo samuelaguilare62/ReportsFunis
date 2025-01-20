@@ -1,8 +1,14 @@
 [
   {
     "appName": "Minecraft",
-    "reason": "Link caído ",
+    "reason": "Link caÃ­do ",
     "date": "2025-01-20T03:26:53.909Z",
+    "status": "pendiente"
+  },
+  {
+    "appName": "Minecraft",
+    "reason": "Link caído ",
+    "date": "2025-01-20T03:27:41.515Z",
     "status": "pendiente"
   }
 ]
